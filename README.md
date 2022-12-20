@@ -5,7 +5,7 @@
         <title>Alvin Nguyen</title>
     </head>
     <body>
-        <a href="./v1-links-and-images/current-projects/projects.html">Click me to learn more about my current projects</a>
+        <a href="v1-links-and-images/current-projects/projects.html">Click me to learn more about my current projects</a>
         <h2>2022-12-20</h2>
         <p><strong>*taps mic*</strong> It took awhile, but I'm finally getting around to getting started on this project.</p>
         <p><em>"What project?"</em> You may ask.</p><p></p>
